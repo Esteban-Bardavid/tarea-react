@@ -1,0 +1,46 @@
+main{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    
+}
+.cards{
+    display: flex;
+    
+    text-align: center;
+}
+
+aside{
+ background-color: lightcyan;
+ padding-top: 15px;
+ 
+}
+   
+.card{
+ margin: 15px;
+}
+    
+  
+.card-body{
+    background:  lightcyan;
+    border: 0;
+} 
+   
+.h3-carousel {
+    color: black;
+}
+.p-carousel{
+    color: black;
+}
+   
+
+
+.asideImage{
+    width: 100%;
+    padding-top: 0;
+}
+
+.asideImage2{
+    width: 100%;
+    padding-top: 10px;
+}
